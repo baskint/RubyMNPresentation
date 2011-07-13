@@ -1,0 +1,14 @@
+This zipped file contains a slide deck comparing the ASP.NET MVC 3 vs. Ruby on Rails and two sample projects showcasing scaffolding, and model-view-controllers completed in ASP MVC 3 and Rails 3 web-frameworks
+
+In order to run the solutions, you need 
+(1) Visual Studio 2010 Express edition (minimum)
+
+(2) Rails 3 - I have used RubyMine as an IDE, but an IDE is not necessary. Vim would suffice. 
+
+author:
+	Baskin Tapkan
+	Software Architect/Developer
+date:
+	6/28/2011
+	St.Paul, MN
+	
